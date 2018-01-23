@@ -1,4 +1,4 @@
-##Ancestors
+## Ancestors
 project for heritage research
 
 ## Features
