@@ -1,8 +1,5 @@
-# Laravel-Vue SPA Starter
-
-[![Build Status](https://img.shields.io/travis/cretueusebiu/laravel-vue-spa/master.svg?style=flat-square)](https://travis-ci.org/cretueusebiu/laravel-vue-spa)
-
-> A Laravel-Vue SPA starter project template.
+##Ancestors
+project for heritage research
 
 ## Features
 
@@ -16,7 +13,7 @@
 
 ## Installation
 
-- `git clone https://github.com/cretueusebiu/laravel-vue-spa.git`
+- `git clone https://github.com/sooand/ancestors.git`
 - `cd laravel-vue-spa`
 - `cp .env.example .env`
 - `composer install`
@@ -43,8 +40,3 @@ npm run hot
 ```bash
 npm run production
 ```
-
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
