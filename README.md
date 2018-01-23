@@ -14,7 +14,7 @@ project for heritage research
 ## Installation
 
 - `git clone https://github.com/sooand/ancestors.git`
-- `cd laravel-vue-spa`
+- `cd ancestors`
 - `cp .env.example .env`
 - `composer install`
 - `php artisan key:generate`
