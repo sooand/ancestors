@@ -13,5 +13,6 @@ yarn-error.log
 /public/js/app.js
 /public/css/app.css
 /public/mix-manifest.json
+/.package-lock.json
 
 phpunit.dusk.xml
